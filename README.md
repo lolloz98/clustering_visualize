@@ -6,3 +6,6 @@ You can set any dataset you want and see the behavior of the clustering algorith
 The algorithms are modified or taken from [scikit-learn](https://scikit-learn.org/stable/).
 
 You can run the notebooks without any particular setup on [Google Colab](https://colab.research.google.com/)
+
+## Examples
+To visualize examples go to: https://lolloz98.github.io/clustering_visualize/

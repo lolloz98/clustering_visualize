@@ -1,0 +1,20 @@
+
+<script type="application/javascript"> 
+    function resizeIFrameToFitContent( iFrame ) {
+        iFrame.width = 460 + 'px'; 
+        iFrame.height = 405 + 'px'; 
+        console.log(iFrame.width) 
+        console.log(iFrame.height) 
+    } 
+    window.addEventListener('DOMContentLoaded', function(e) { 
+            var iframes = document.querySelectorAll("iframe"); 
+            for( var i = 0; i < iframes.length; i++) { resizeIFrameToFitContent( iframes[i] ); } 
+        } 
+    ); 
+</script> 
+
+<h3>KMeans - example</h3>
+<iframe src="./examples/kmeans.html"></iframe>
+
+<h3>MeanShift - example</h3>>
+<iframe src="./examples/meanshift.html"></iframe>

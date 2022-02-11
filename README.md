@@ -8,4 +8,8 @@ The algorithms are modified or taken from [scikit-learn](https://scikit-learn.or
 You can run the notebooks without any particular setup on [Google Colab](https://colab.research.google.com/)
 
 ## Examples
-To visualize examples go to: https://lolloz98.github.io/clustering_visualize/
+[Kmeans example](https://lolloz98.github.io/clustering_visualize/examples/kmeans.html)
+
+[MeanShift example](https://lolloz98.github.io/clustering_visualize/examples/meanshift.html)
+
+[DBSCAN example](https://lolloz98.github.io/clustering_visualize/examples/dbscan.html)
